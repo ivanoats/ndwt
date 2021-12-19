@@ -1,0 +1,16 @@
+{
+  "name": "nwdt",
+  "version": "1.0.0",
+  "description": "Northwest Discovery Trail map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "nwdt",
+    "trail"
+  ],
+  "author": "Ivan Storck",
+  "license": "MIT"
+}

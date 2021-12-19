@@ -1,0 +1,219 @@
+{
+  "_id": "aNDWT",
+  "startUrl": [
+    "http://www.ndwt.org/ndwt/explore/site.asp?site=1"
+  ],
+  "selectors": [
+    {
+      "delay": 0,
+      "id": "riverSegment",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('River Segment') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "riverName",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('River Name') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "riverMile",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('River Mile') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "bank",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('Bank') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "lat",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('Latitude') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "long",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('Longitude') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "season",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "tr:contains('Season') td:nth-of-type(2)",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "camping",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "td tr:contains('Camping') [width] div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "contact",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "td tr:contains('Contact') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "phone",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "td tr:contains('Phone') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "website",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "regex": "",
+      "selector": "td tr:contains('Website') div",
+      "type": "SelectorText"
+    },
+    {
+      "delay": 0,
+      "id": "restrooms",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Restrooms') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "potableWater",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Potable Water') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "marineDumpStation",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Marine Dump Station') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "dayUseOnly",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Day Use Only') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "picnicShelters",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Picnic Shelters') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "boatRamp",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Boat Ramp') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "handCarried",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Hand-Carried') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "marina",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('Marina') img",
+      "type": "SelectorImage"
+    },
+    {
+      "delay": 0,
+      "id": "adaAccess",
+      "multiple": false,
+      "parentSelectors": [
+        "_root"
+      ],
+      "selector": "td tr:contains('ADA Access') img",
+      "type": "SelectorImage"
+    }
+  ]
+}
